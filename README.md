@@ -27,7 +27,6 @@ class Developer:
         self.interests = ["Linear Algebra", "Real Analysis", "Group Theory"]
         self.goal = "Machine Learning Mastery"
 ```
-### Hi there! I'm Fuko...
 <div align="center">
   <img src="pfp.gif" width="250" />
 </div>

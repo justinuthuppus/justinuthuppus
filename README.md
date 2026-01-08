@@ -25,8 +25,6 @@ class Developer:
         self.interests = ["Linear Algebra", "Real Analysis", "Group Theory"]
         self.goal = "Machine Learning Mastery"
 
-![Header](...waving gradient url...)
-
 <div align="center">
   <img src="anime-c-book.jpg" width="250" />
 </div>

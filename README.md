@@ -1,4 +1,8 @@
 ### Hey there! I'm Justin 👋
+<br />
+<div align="center">
+  <img src="https://media.giphy.com/media/13Hgw4IHP2El72/giphy.gif" width="100" />
+</div>
 
 I'm a solo developer traversing the intersection of rigorous mathematics and machine learning.
 

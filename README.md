@@ -29,5 +29,5 @@ class Developer:
 ```
 ### Hi there! I'm Fuko...
 <div align="center">
-  <img src="anime-c-book.jpg" width="250" />
+  <img src="pfp.gif" width="250" />
 </div>

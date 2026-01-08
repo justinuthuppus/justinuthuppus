@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%26%20Pure%20Math&descAlignY=55&descAlign=50)
+
 ### Hi there! I'm [Justin] 👋
 
 I'm a solo developer traversing the intersection of rigorous mathematics and machine learning.
